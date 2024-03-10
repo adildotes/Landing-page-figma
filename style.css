@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+.list-text-align a {
+    text-decoration: none;
+}
+
+.bg-iamge {
+    background: url(image/designs-imgs/Gradient.png) no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.header-content {
+    text-align: center;
+    height: ;
+}
+
+.cards-content>div {
+    background-color: #9cc4eb;
+    
+}
+
+.Monitor-card {
+    background: url(image/designs-imgs/Gradient.png) no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    height: 400px;
+    -ms-flex-align: ;
+}
+
+/* .footer-image {
+    background-image: url(image/footer-icons/footer-background.jpg) no-repeat;
+    background-size: cover;
+} */
